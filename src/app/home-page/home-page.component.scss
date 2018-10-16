@@ -1,0 +1,19 @@
+.content-home-page {
+  padding-top: 64px;
+  padding-bottom: 64px;
+  .img-discount-news {
+    padding-top: 8px;
+    img {
+      width: 100%;
+      opacity: 0.75;
+      border-radius: 4px;
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  .content-discount-news {
+    p {
+      margin-top: 24px;
+    }
+  }
+}
